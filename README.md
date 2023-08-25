@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love Magic the Gathering and strategizing with deck creation. 
 
 
-<div id="header" >
+
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</div>
+
