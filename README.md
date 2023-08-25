@@ -9,3 +9,4 @@
 - 😄 Pronouns: 
 - ⚡ Fun fact: I love Magic the Gathering and strategizing with deck creation. 
 
+https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif
