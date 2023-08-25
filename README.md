@@ -1,6 +1,5 @@
 ### Hi 👋 I'm Scot 
 
-<div id="header" align="center">
   <div>
 - 🔭 I’m currently working on my newest project EDH deck masters
 - 🌱 I’m currently learning full stack web development
@@ -11,5 +10,8 @@
 - 😄 Pronouns: 
 - ⚡ Fun fact: I love Magic the Gathering and strategizing with deck creation. 
 </div>
+
+<div id="header" >
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
