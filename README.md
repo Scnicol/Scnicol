@@ -8,5 +8,6 @@
 - 📫 How to reach me: Email: Scnicol@ucdavis.edu
 - 😄 Pronouns: 
 - ⚡ Fun fact: I love Magic the Gathering and strategizing with deck creation. 
-
-https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
+</div>
