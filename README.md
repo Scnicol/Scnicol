@@ -9,5 +9,5 @@
 - 😄 Pronouns: 
 - ⚡ Fun fact: I love Magic the Gathering and strategizing with deck creation. 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
+<img src="[https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
