@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with CSS design for websites
 - 💬 Ask me about JavaScript, Python, React, Redux and my favorite food!
 - 📫 How to reach me: Email: Scnicol@ucdavis.edu
-- 😄 Pronouns: 
-- ⚡ Fun fact: I love Magic the Gathering and strategizing with deck creation. 
+- ⚡ Fun fact: I love Magic the Gathering and am a huge gaming nerd I even stream. 
 
 
 
