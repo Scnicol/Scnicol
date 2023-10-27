@@ -1,3 +1,4 @@
+
 ### Hi 👋 I'm Scot 
 
 
@@ -10,7 +11,9 @@
 - ⚡ Fun fact: I love Magic the Gathering and am a huge gaming nerd. I also stream. 
 
 
-
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<p align="center">
+  <br/>
+  <br/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</p>
 
