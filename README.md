@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Scot 
 
 
-- 🔭 I’m currently working on my newest project [EDH Deck Master](https://edh-deck-master.onrender.com)
-- 🌱 I’m currently learning full stack web development
+- 🧑🏼‍💻 I’m currently working on my newest project [EDH Deck Master](https://edh-deck-master.onrender.com)
+- 💡 I’m currently improving my skills as a full stack web developer
 - 👯 I’m looking to collaborate on web development and game design
 - 🤔 I’m looking for help with CSS design for websites
 - 💬 Ask me about JavaScript, Python, React, Redux and my favorite food!
