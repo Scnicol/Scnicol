@@ -2,7 +2,7 @@
 ### Hi 👋 I'm Scot 
 
 
-- 🧑🏼‍💻 I’m currently working on my newest project [EDH Deck Master](https://edh-deck-master.onrender.com)
+- 🧑🏼‍💻 I’m currently working on my newest project [Adventure Time] I hope to make it into an app one day!
 - 💡 I’m currently advancing my skills as a full stack web developer
 - 👯 I’m looking to collaborate on web development and game design
 - 🤔 I’m looking for help with CSS design for websites
